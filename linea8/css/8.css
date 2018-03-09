@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    font-size: 16px;
+}
+.navbar-brand img{
+    width: 60px;
+    height: auto;
+}
+.jumbotron{
+    background: url('../img/metroFondo.jpg');
+    color: white;
+    height: calc(100vh - 90px);
+}
+h3{
+    margin: 2%;
+}
+.nombre{
+    color: #008e4e;
+}
+li img{
+    height: 50px;
+    width: auto;
+}
